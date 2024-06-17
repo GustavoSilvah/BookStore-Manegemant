@@ -1,0 +1,66 @@
+C:\Users\gusta\source\repos\BookstoreManagemant\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gusta\source\repos\BookstoreManagemant\bin\Debug\net7.0\appsettings.json
+C:\Users\gusta\source\repos\BookstoreManagemant\bin\Debug\net7.0\BookstoreManagemant.exe
+C:\Users\gusta\source\repos\BookstoreManagemant\bin\Debug\net7.0\BookstoreManagemant.deps.json
+C:\Users\gusta\source\repos\BookstoreManagemant\bin\Debug\net7.0\BookstoreManagemant.runtimeconfig.json
+C:\Users\gusta\source\repos\BookstoreManagemant\bin\Debug\net7.0\BookstoreManagemant.dll
+C:\Users\gusta\source\repos\BookstoreManagemant\bin\Debug\net7.0\BookstoreManagemant.pdb
+C:\Users\gusta\source\repos\BookstoreManagemant\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gusta\source\repos\BookstoreManagemant\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\gusta\source\repos\BookstoreManagemant\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gusta\source\repos\BookstoreManagemant\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gusta\source\repos\BookstoreManagemant\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.AssemblyInfo.cs
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\staticwebassets\msbuild.BookstoreManagemant.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\staticwebassets\msbuild.build.BookstoreManagemant.props
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookstoreManagemant.props
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookstoreManagemant.props
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\scopedcss\bundle\BookstoreManagemant.styles.css
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\Bookstor.09DFC917.Up2Date
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.dll
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\refint\BookstoreManagemant.dll
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.pdb
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.genruntimeconfig.cache
+C:\Users\gusta\source\repos\BookstoreManagemant\obj\Debug\net7.0\ref\BookstoreManagemant.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\bin\Debug\net7.0\appsettings.json
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\bin\Debug\net7.0\BookstoreManagemant.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\bin\Debug\net7.0\BookstoreManagemant.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\bin\Debug\net7.0\BookstoreManagemant.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\bin\Debug\net7.0\BookstoreManagemant.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\bin\Debug\net7.0\BookstoreManagemant.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\staticwebassets\msbuild.BookstoreManagemant.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\staticwebassets\msbuild.build.BookstoreManagemant.props
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookstoreManagemant.props
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookstoreManagemant.props
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\scopedcss\bundle\BookstoreManagemant.styles.css
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\Bookstor.09DFC917.Up2Date
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\refint\BookstoreManagemant.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\BookstoreManagemant.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\RockeatSeat - C#\BookstoreManagemant\obj\Debug\net7.0\ref\BookstoreManagemant.dll
